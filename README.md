@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I am currently pursuing my Information Technology 
 
 ### 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex23e_HERE&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yorprofile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/derrick-oteng-abrokwah-950a9b410/i](https://www.linkedin.com/in/derrick-oteng-abrokwah-950a9b410/)
+- **Email:** abrokwahderrickoteng@gmail.com
