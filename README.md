@@ -1,6 +1,6 @@
 # Hi there, I'm Derrick 👋
 
-### 🚀 Level 100 IT Student | Aspiring Systems & Software Developer
+### 🚀 Level 100 IT Student | Aspiring ComputerSystems & Software Developer
 
 Welcome to my GitHub profile! I am currently pursuing my Information Technology degree, focusing on building strong foundations in programming logic, data structures, and computer systems. 
 
