@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am currently pursuing my Information Technology 
 ---
 
 ### 🛠️ What I am Learning Right Now
-- **Languages:** Python, C++ (Introduction to Programming)
+- **Languages:** Python, C++ ( Programming )
 - **Web Tech:** HTML5, CSS3 basics
 - **Tools:** Git, GitHub Codespaces, Linux environments
 
