@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am currently pursuing my Information Technology 
 - **Web Tech:** HTML5, CSS3 basics
 - **Tools:** Git, GitHub Codespaces, Linux environments
 
-### 📂 Level 100 Projecs & Highlights
+### 📂 Level 100 Projects & Highlights
 - 🧮 [GPA Calculator](your-repo-link-here) - A Python script utilizing conditional logic to calculate semester CGPA.
 - 🌐 [Personal Portfolio Website](your-repo-link-here) - A single-page responsive site showcasing my coursework and bio.
 
